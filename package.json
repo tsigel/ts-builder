@@ -17,7 +17,7 @@
     "typescript": "latest"
   },
   "scripts": {
-    "postversion": "git push origin HEAD && git push --tags && npm run build && npm publish"
+    "postversion": "git push origin HEAD && git push --tags && npm publish"
   },
   "devDependencies": {
     "@types/colors": "^1.1.3",
