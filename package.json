@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "main": "dist/index.js",
   "bin": "dist/index.js",
+  "files": [
+    "dist",
+    "src"
+  ],
   "dependencies": {
     "colors": "^1.1.2",
     "fs-extra": "^4.0.1",
